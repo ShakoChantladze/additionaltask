@@ -1,0 +1,145 @@
+header{
+    background-color: #F7F7F7;
+}
+.circle{
+    display: inline-block;
+    margin-top: 23px;
+    margin-left: 27px;
+    width: 27px;
+    height: 27px;
+    border: 8px solid #000000;
+    border-radius: 50%;
+}
+nav{
+    display: inline-block;
+    margin-left: 793px;
+    font-family: 'first-font';
+}
+li{
+    border-right: #000000 1px solid;
+    padding-right: 18px;
+    margin-left: 18px;
+    display: inline-block;
+}
+.nav-a{
+    color: #000000;
+    text-decoration: none;
+}
+main{
+    background-color: #F7F7F7;
+}
+.second-div{
+    padding-top: 42px;
+    padding-left: 180px;
+    font-family: 'first-font';
+}
+.h1-div{
+    color: #262626;
+}
+h4{
+    display: inline-block; 
+    padding-top: 90px;
+    color: #262626;
+}
+.second-h4{
+    color: #FFFFFF;
+    background-color: #0865DE;
+    margin-left: 30px;
+    padding-top: 8px;
+    padding-right: 15px;
+    padding-bottom: 8px;
+    padding-left: 15px;
+}
+h5{
+    display: inline-block;
+    padding-top: 65px;
+    color: #262626;
+}  
+.second-h5{
+    background-color: #FFFFFF;
+    margin-left: 30px;
+    padding-top: 9px;
+    padding-right: 16px;
+    padding-bottom: 7px;
+    padding-left: 16px;
+}
+.third-div{
+    padding-top: 70px;
+    padding-left: 180px;
+}
+.first-p{
+    color: #262626;
+    font-size: 32px;
+    width: 607px;
+    height: 96px;
+    font-family: 'second-font';
+}
+.second-p{
+    color: #262626;
+    padding-top: 60px;
+    font-size: 25px;
+    width: 686px;
+    height: 212px;
+    font-family: 'second-font'
+}
+.third-h5{
+    font-size: 14px;
+    color: #959595;
+    margin-right: 90px;
+}
+.fourth-h5{
+    font-size: 14px;
+    color: #959595;
+    margin-right: 90px;
+}
+.fifth-h5{
+    font-size: 14px;
+    color: #959595;
+}
+.third-div1{
+    vertical-align: middle;
+    display: inline-block;
+}
+.link-fifth-h5{
+    color: #959595;
+    text-decoration: none;
+}
+.third-div2{
+    vertical-align: middle;
+    display: inline-block;
+}
+.faceicon{
+    width: 32px;
+    height: 32px;
+}
+.mini-div{
+    width: 393px;
+    height: 288px;
+    margin-left: 91px;
+    background-color: #FFFFFF;
+    font-family: 'first-font';
+}
+.blue-div{
+    margin-top: 15px;
+    margin-left: 15px;
+    position: absolute;
+    background-color: #0865DE;
+    width: 182px;
+    height: 163px;
+}
+.blue-div-p{
+    text-align: center;
+    color: #FFFFFF;
+}
+h2{
+    position: absolute;
+    padding-top: 90px;
+    margin-left: 90px;
+}
+.faceicon-div{
+    padding-top: 164px;
+    padding-left: 90px;
+}
+.faceicon{
+    margin-right: 25px;
+}
